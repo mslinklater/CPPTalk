@@ -3,7 +3,8 @@ class Data
 public:
     Data(){}
 
-    virtual ~Data(){}
+    ~Data(){}
+    //virtual ~Data(){}
 
     int a;  // 4 bytes
     //int b;  // 4 bytes
